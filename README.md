@@ -1,4 +1,4 @@
 # githubdemo
 This is my repository.
 <br>
-Author - Shreya
+Author - Shreya Shetty
